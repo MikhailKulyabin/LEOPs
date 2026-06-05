@@ -1,0 +1,29 @@
+# Dataset (downloaded separately)
+dataset/
+
+# RFF extraction I/O
+input/
+output/
+
+# Generated figures and tables
+figures/
+tables/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
